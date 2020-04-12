@@ -24,9 +24,9 @@
     "@polymer/lit-element": "^0.5.2",
     "@webcomponents/webcomponentsjs": "^2.0.4",
     "core-js": "^2.5.4",
-    "rxjs": "^6.0.0",
+    "rxjs": "6.0.0",
     "zone.js": "~0.8.26",
-    "foo-components": "file:/home/one/github/foo-components/foo-components-0.0.0.tgz"
+    "foo-components": "file:/home/one/github/foo-components/foo-components-1.0.0.tgz"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.7.0",
